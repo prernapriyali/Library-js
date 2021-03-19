@@ -24,7 +24,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [https://github.com/prernapriyali/Library-js/issues](issues/).
+Feel free to check the [https://github.com/prernapriyali/Library-js/issues].
 
 ## Show your support
 
