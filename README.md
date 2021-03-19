@@ -9,7 +9,7 @@
 - Run `git pull origin library`
 - On the terminal open up the live server, while in the 'Library app' directory:
 
-![screenshot](./screenshot.png)
+![screenshot](./page-screenshop.png)
 
 ## Authors
 
