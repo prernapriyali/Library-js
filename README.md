@@ -9,6 +9,7 @@
 - Run `git pull origin library`
 - On the terminal open up the live server, while in the 'Library app' directory:
 
+
 ![screenshot](assets/abc.png)
 
 ## Authors
@@ -18,7 +19,9 @@
 - Github: [@prernapriyali](https://github.com/prernapriyali)
 - Twitter: [@twitterhandle](https://twitter.com/prerna96440861)
 
+## Live Demo
 
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 
 ## 🤝 Contributing
 
